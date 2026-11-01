@@ -1,0 +1,9 @@
+{
+  "name": "ASTU Spark - University Dating & Campus Connect",
+  "description": "Exclusive dating, study partner, and campus social connection app for Adama Science and Technology University (ASTU) students with verified student ID scanning, photo verification, swiping, messaging, calls, and Birr subscriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
